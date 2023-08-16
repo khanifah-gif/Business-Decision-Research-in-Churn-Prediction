@@ -12,8 +12,9 @@ Python
 Library : Pandas, Numpy, Matplotlib, Seaborn, Scikitlearn
 
 # Data Preparation
-1. Eksplorasi data
-2. Feature engineering
+1. Data Cleaning & pre processing
+2. Eksplorasi Data
+3. Feature engineering
 
 # Exploratory Data Analysis
 ![Graph of Customer Acquisition](https://github.com/khanifah-gif/Business-Decision-Research-in-Churn-Prediction/assets/100893371/3d650dab-b4dc-4fca-bdbb-4f0fc18db2a3)
